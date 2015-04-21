@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp develop",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp default"
   },
   "author": "",
   "license": "ISC",
